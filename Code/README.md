@@ -4,8 +4,8 @@ This is the implementation of the paper "FoggyStereo: Stereo Matching with Fog V
 The code will be released soon.
 
 # TODO
-- [] Code
-- [] Pre-trained model
-- [] Synthesized data
+- [ ] Code
+- [ ] Pre-trained model
+- [ ] Synthesized data
 
 
